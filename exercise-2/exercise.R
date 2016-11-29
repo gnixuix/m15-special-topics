@@ -1,5 +1,7 @@
 # Introductory example using the housing data used here: 
 # http://www.r2d3.us/visual-intro-to-machine-learning-part-1/
+# install.packages("rpart")
+# install.packages("rpart.plot")
 library(rpart)
 library(rpart.plot)
 
